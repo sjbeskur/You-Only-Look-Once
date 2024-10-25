@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 clap = { version = "4.0.22", features = ["derive"] }
-opencv = "0.74.0"
+opencv = "0.93"
